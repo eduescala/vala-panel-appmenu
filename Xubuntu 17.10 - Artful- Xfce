@@ -1,0 +1,4 @@
+I have compiled vala-panel-appemnu for Ubuntu Artful in Xfce and I have follow the post installation instrucctions 
+of the "readme" file. As a result I've got the plugins installed in /usr/local/lib/xfce4/panel/plugins/libappmenu-xfce.so 
+and usr/local/lib/vala-panel/applets/libappmenu-valapanel.so. 
+Nevertheless when I try to load the plugin using the panel GUI settings it doesn't appear available. Any ideas or suggestions?
